@@ -1,0 +1,155 @@
+
+#m{  
+    background-color: black;
+    color: white;
+    display: flex;
+    margin: 0px;
+    padding: 10;
+}
+#hh{
+    text-decoration: none;
+    color: white;
+    background-color:  black;
+    display: flex;
+    margin: 34px;
+    border-style: solid;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+}
+#aa{
+    text-decoration: none;
+    padding: 5 0 0 0;
+    color: white;
+    background-color: black ;
+    display: flex;
+    margin: 34px;
+    border-style: solid;
+    text-align: center;
+    justify-content: center;
+}
+#jj{
+    text-decoration: none;
+    color:white ;
+    background-color: black ;
+    justify-content: center;
+    display: flex;
+    margin: 34px;
+    border-style: solid;
+    padding: 5px;
+    text-align: center;
+}
+#nn{
+    text-decoration: none;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    border-style: solid;
+    padding: 5px;
+    display: flex;
+    margin: 34px;
+    text-align: center;
+}
+#t{
+height: 56px;
+margin: 0 0 0 200;
+}
+#g{
+height: 56px;
+margin: 0 10 0 235;
+display: flex;
+text-align: center;
+
+}
+#ff{
+    margin: 0 0 789 0;
+}
+#hc{
+    display: flex;
+}
+#dd{
+    margin: 20 100 0 100;
+    display: flex;
+}
+#xc{
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+}
+#gh{
+    
+    background-color: black;
+    text-align: center;
+    bottom: 0;
+
+}
+#q{
+
+background-color: black;
+text-align: center;
+bottom: 0;
+
+}
+#vq{
+    background-color: black;
+    text-align: center;
+    bottom: 0;
+
+}
+#ll{
+
+    background-color: black;
+    text-align: center;
+    bottom: 0;
+
+}
+#io{
+    background-color: black;
+    text-align: center;
+    bottom: 0;
+}
+li{
+   font-size: xx-large;
+
+   border-radius: 22%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+   
+video{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+ 
+
+}
+#vvv{
+    font-size: xx-large;
+background-color: rgb(8, 8, 8);
+    border-radius: 50%;
+    border-style: dotted;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ position: absolute;
+ color: antiquewhite;
+}
+#bv{
+    font-size: xx-large;
+    background-color: rgb(8, 8, 8);
+        border-radius: 25%;
+        border-style: dashed;
+         font-family:Verdana, Geneva, Tahoma, sans-serif;
+     position: absolute;
+     color: antiquewhite;
+     text-align: center;
+}
+#hj{
+    overflow:scroll;
+    margin: 444;
+    background-color: aqua;
+}
+#lll{
+    padding: 200px;
+    background-color: aquamarine;
+    justify-content: center;
+}
